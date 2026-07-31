@@ -1,0 +1,23 @@
+{
+  "name": "sahtain-chat",
+  "version": "1.0.0",
+  "description": "Sahtain Chat - AI-powered chat application with Google Gemini",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryamalshnini-hash/sahtain-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryamalshnini-hash/sahtain-chat/issues"
+  },
+  "homepage": "https://github.com/maryamalshnini-hash/sahtain-chat#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
